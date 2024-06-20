@@ -1,6 +1,6 @@
        01  EPS-NUMBER-VALIDATION.
       * INPUT - change 7
-           03 EPSPARM-VALIDATE-DATA     PIC X(13).
+           03 EPSPARM-VALIDATE-DATA     PIC X(12).
            03 EPSPARM-MAX-LENGTH        PIC 99.
       * OUTPUT
            03 EPSPARM-NUMBER            PIC 9(13).
