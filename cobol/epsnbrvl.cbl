@@ -12,6 +12,7 @@
       *       INTEREST RATE
       *    OUTPUT:
       *       MONTHLY PAYMENT
+      *       test
       *
       *    (C) 2020 IBM
        ENVIRONMENT DIVISION.
