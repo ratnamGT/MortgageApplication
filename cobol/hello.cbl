@@ -4,5 +4,5 @@
        PROCEDURE DIVISION.
            DISPLAY 'HELLO WORLD'.
            DISPLAY 'HELLO IKAN from GT'.
-           DISPLAY 'Jenkin tetsing12'.   
+           DISPLAY 'Jenkin tetsing123'.   
            STOP RUN.
