@@ -1,0 +1,10 @@
+{
+    "zopeneditor.zapp.variables": {
+      "HLQ": "IBMUSER"
+    },
+    "zopeneditor.zowe": {
+      "defaultCliProfile": "lpar1.zosmf",
+      "defaultSshCliProfile": "lpar1.ssh"
+    }
+  }
+  
