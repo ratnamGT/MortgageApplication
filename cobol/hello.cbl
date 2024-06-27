@@ -2,6 +2,6 @@
        PROGRAM-ID. IDSAMPLE.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO WORLDjenkins1'.
+           DISPLAY 'HELLO WORLDjenkins'.
             
            STOP RUN.
