@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
            DISPLAY 'HELLO WORLDjenkins'.
-           DISPLAY 'HELLO impactbuild testing1'.              
+           DISPLAY 'HELLO impactbuild testing'.              
            STOP RUN.
