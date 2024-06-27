@@ -1,3 +1,0 @@
- INCLUDE  SYSLMOD(hello)
- INCLUDE SYSLIB(hello)
- NAME hello(R)
