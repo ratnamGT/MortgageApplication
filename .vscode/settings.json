@@ -5,6 +5,8 @@
     "zopeneditor.zowe": {
       "defaultCliProfile": "lpar1.zosmf",
       "defaultSshCliProfile": "lpar1.ssh"
-    }
+    },
+    "files.autoGuessEncoding": true,
+    "notebook.defaultFormatter": "george-alisson.html-preview-vscode"
   }
   
