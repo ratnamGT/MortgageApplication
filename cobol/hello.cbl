@@ -2,5 +2,5 @@
        PROGRAM-ID. HELLO.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO WORLD GT234'.           
+           DISPLAY 'HELLO WORLD GT2345'.           
            STOP RUN.
