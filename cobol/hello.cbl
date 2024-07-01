@@ -2,5 +2,5 @@
        PROGRAM-ID. IDSAMPLE.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO WORLD GT2'.           
+           DISPLAY 'HELLO WORLD GT23'.           
            STOP RUN.
