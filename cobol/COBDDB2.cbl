@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. COBDB2.
+       PROGRAM-ID. COBDDB2.
        DATA DIVISION.
          WORKING-STORAGE SECTION.
 
@@ -19,4 +19,4 @@
            END-EXEC.
            Display 'testing the cob-db2'.
 
-              STOP RUN.
+           STOP RUN.
