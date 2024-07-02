@@ -2,5 +2,5 @@
        PROGRAM-ID. HELLO.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO IKAN from GT12'.           
+           DISPLAY 'HELLO IKAN from GT1'.           
            STOP RUN.
