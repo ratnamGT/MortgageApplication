@@ -7,6 +7,8 @@
       "defaultSshCliProfile": "lpar1.ssh"
     },
     "files.autoGuessEncoding": true,
-    "notebook.defaultFormatter": "george-alisson.html-preview-vscode"
+    "notebook.defaultFormatter": "george-alisson.html-preview-vscode",
+    "workbench.startupEditor": "welcomePage",
+    "zopeneditor.welcomePage.show": false
   }
   
