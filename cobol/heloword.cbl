@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. HELLO.
+       PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO WORLD GTKOBE'.           
+           DISPLAY 'HELLO WORLD GT234'.           
            STOP RUN.
