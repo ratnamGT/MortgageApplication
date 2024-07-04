@@ -2,5 +2,5 @@
        PROGRAM-ID. HELLO.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO IKAN from GT1'.           
+           DISPLAY 'HELLO IKAN testing pipeline1'.           
            STOP RUN.
