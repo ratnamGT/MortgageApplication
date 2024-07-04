@@ -9,6 +9,13 @@
     "files.autoGuessEncoding": true,
     "notebook.defaultFormatter": "george-alisson.html-preview-vscode",
     "workbench.startupEditor": "welcomePage",
-    "zopeneditor.welcomePage.show": false
+    "zopeneditor.welcomePage.show": false,
+    "zowe.cics.persistent": {
+      "persistence": true,
+      "programSearchHistory": [],
+      "transactionSearchHistory": [],
+      "localFileSearchHistory": [],
+      "loadedCICSProfile": []
+    }
   }
   
