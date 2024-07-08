@@ -5,7 +5,7 @@
 
          01  WS-SQLREAD           PIC X(1).
 
-      *** INCLUDING SQLCA COPYBOOK***ijenk******
+      *** INCLUDING SQLCA COPYBOOK**jenkins******
            EXEC SQL
                 INCLUDE SQLCA
            END-EXEC.
