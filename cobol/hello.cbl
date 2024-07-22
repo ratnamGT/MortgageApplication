@@ -2,5 +2,5 @@
        PROGRAM-ID. HELLO.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO IKAN from Gyatitude ttt '.           
+           DISPLAY 'HELLO IKAN from Gyatitude tttt '.           
            STOP RUN.
