@@ -2,5 +2,5 @@
        PROGRAM-ID. HELLO.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO IKAN from Gyatitude wazi deploy'.           
+           DISPLAY 'HELLO IKAN from Gyatitude wazi deploy file'.           
            STOP RUN.
