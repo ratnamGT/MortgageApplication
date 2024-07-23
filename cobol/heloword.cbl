@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO WORLD GT'.           
+           DISPLAY 'HELLO WORLD GT1'.           
            STOP RUN.
