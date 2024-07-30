@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO ikan FROM gt'.           
+           DISPLAY 'HELLO ikan FROM GT'.           
            STOP RUN.
