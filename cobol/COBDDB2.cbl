@@ -4,8 +4,8 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-
-      *** INCLUDING SQLCA COPYBOOK**pipeline******
+      *** IKAN COMMENT DEMO *** 
+      *** INCLUDING SQLCA COPYBOOK******
            EXEC SQL
                 INCLUDE SQLCA
            END-EXEC.
