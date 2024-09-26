@@ -18,11 +18,10 @@
       "loadedCICSProfile": []
     },
     "zopeneditor.userbuild.userSettings": {
-      "dbbWorkspace": "/u/kobee/project",
-      "dbbHlq": "IBMUSER.SAMPLE.DBB",
-      "dbbLogDir": "/u/kobee/project/USERBUILD/logs",
       "dbbDefaultZappProfile": "dbb-build",
-      "localLogDir": "C:\\Users\\kobee\\userbuild\\logs"
+      "dbbHlq": "GMSRATN.VSCODE",
+      "dbbLogDir": "/u/gmsratn/sandbox/logs",
+      "dbbWorkspace": "/u/gmsratn/sandbox"
     }
   }
   

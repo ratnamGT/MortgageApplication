@@ -19,7 +19,7 @@ profiles:
     settings:
       application: MortgageApplication
       command: "$DBB_HOME/bin/groovyz -DBB_PERSONAL_DAEMON"
-      buildScriptPath: "${zopeneditor.userbuild.userSettings.dbbWorkspace}/dbb-zappbuild/build.groovy"
+      buildScriptPath: "/u/gmsratn/zAppbuild20/Development/build.groovy"
       buildScriptArgs:
         - "--userBuild"
         - "--workspace ${zopeneditor.userbuild.userSettings.dbbWorkspace}"
