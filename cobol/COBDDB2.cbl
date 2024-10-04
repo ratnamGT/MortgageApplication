@@ -4,7 +4,7 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-      *** IKAN COMMENT DEMO *** 
+      *** IKAN DEMO IBM *** 
       *** INCLUDING SQLCA COPYBOOK******
            EXEC SQL
                 INCLUDE SQLCA
@@ -17,6 +17,6 @@
                 SELECT IBMREQD INTO: WS-SQLREAD
                 FROM SYSIBM.SYSDUMMY1
            END-EXEC.
-           Display 'testing the cob-db21'.
+           Display 'Testing the cob-db21'.
 
            STOP RUN.
