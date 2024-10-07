@@ -4,8 +4,8 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-      *** IKAN DEMO IBM *** 
-      *** INCLUDING SQLCA COPYBOOK******
+      *** IKAN DEMO FOR IBM *** 
+      *** INCLUDING SQLCA COPYBOOK ******
            EXEC SQL
                 INCLUDE SQLCA
            END-EXEC.
