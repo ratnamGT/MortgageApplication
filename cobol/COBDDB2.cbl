@@ -4,7 +4,7 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-      *** IKAN DEMO FOR IBM with Jenkins Phase plugins *** 
+      *** IKAN DEMO with Jenkins Phase plugins *** 
       *** INCLUDING SQLCA COPYBOOK ******
            EXEC SQL
                 INCLUDE SQLCA
@@ -17,6 +17,6 @@
                 SELECT IBMREQD INTO: WS-SQLREAD
                 FROM SYSIBM.SYSDUMMY1
            END-EXEC.
-           Display 'Testing the cob-db21'.
+           Display 'Testing the cobDdb2'.
 
            STOP RUN.
