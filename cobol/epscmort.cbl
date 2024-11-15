@@ -7,6 +7,9 @@
       *    CURRENT DATE.test
       *
       *    (C) 2017 IBM - JIM HILDNER RESERVED.
+      *
+      *    IKAN changing nothing
+      *
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. IBM-FLEX-ES.
