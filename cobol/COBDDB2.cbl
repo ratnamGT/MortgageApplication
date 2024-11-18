@@ -4,8 +4,7 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-      *** IKAN DEMO with DBB Plus IKAN Phases ***
-      * 
+      *** IKAN DEMO with DBB Plus IKAN Phases *** 
       *** INCLUDING SQLCA COPYBOOK ******
            EXEC SQL
                 INCLUDE SQLCA
