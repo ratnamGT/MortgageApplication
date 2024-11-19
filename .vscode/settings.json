@@ -8,7 +8,7 @@
     },
     "files.autoGuessEncoding": true,
     "notebook.defaultFormatter": "george-alisson.html-preview-vscode",
-    "workbench.startupEditor": "welcomePage",
+    "workbench.startupEditor": "none",
     "zopeneditor.welcomePage.show": false,
     "zowe.cics.persistent": {
       "persistence": true,
