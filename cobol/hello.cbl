@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       * 
        PROCEDURE DIVISION.
-           DISPLAY 'Heyy Trisha Welcome to GMS'.
+           DISPLAY 'Heyyy Trisha Welcome to GMS'.
            STOP RUN.
