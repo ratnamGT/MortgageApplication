@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *
        PROCEDURE DIVISION.
-           DISPLAY 'Hello impact build testingg'.
+           DISPLAY 'Hello impact build testinggg'.
            STOP RUN.
