@@ -1,5 +1,5 @@
       * INPUT
-      * TEST
+      * TEST*
           10 EPSPCOM-PRINCIPLE-DATA   PIC S9(9)V99 COMP.
           10 EPSPCOM-NUMBER-OF-YEARS  PIC S9(4)    COMP.
           10 EPSPCOM-NUMBER-OF-MONTHS PIC S9(4)    COMP.
