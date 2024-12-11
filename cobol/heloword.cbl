@@ -2,5 +2,5 @@
        PROGRAM-ID. HELOWORD.
        ENVIRONMENT DIVISION.
        PROCEDURE DIVISION.
-           DISPLAY 'HELLO impact build testing1'.
+           DISPLAY 'HELLO impact build testing'.
            STOP RUN.
