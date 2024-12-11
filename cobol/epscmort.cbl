@@ -4,7 +4,7 @@
       *
       *    THIS PROGRAM WILL RECEIVE A DATE AND COVERT THE DATE TO
       *    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM
-      *    CURRENT DATE.test1
+      *    CURRENT DATE.test12
       *
       *    (C) 2017 IBM - JIM HILDNER RESERVED.
       *
