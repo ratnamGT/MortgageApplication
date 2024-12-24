@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
       *hyeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
        PROCEDURE DIVISION.
-           DISPLAY 'Hello impact build etesting_fdf'.
+           DISPLAY 'Hello impact build etes_fdf'.
            STOP RUN.
